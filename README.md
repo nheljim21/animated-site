@@ -33,11 +33,11 @@ This project demonstrates basic scroll-triggered animations, hover effects, and 
 ## 📁 File Structure
 
 animated-site/
-    ├── index.html # Main HTML page
-    ├── style.css # Styles and animations
-    ├── script.js # Scroll animation logic
-    ├── assets/ # (Optional) Images or icons
-    └── README.md # Project documentation
+         ├── index.html # Main HTML page
+         ├── style.css # Styles and animations
+          ── script.js # Scroll animation logic
+         ├── assets/ # (Optional) Images or icons
+         └── README.md # Project documentation
 
 
 ---
@@ -63,9 +63,13 @@ Make feature boxes flip, fade, or zoom on scroll
 
 Optimize for mobile with media queries
 
+---
+
 ## 📜 License
 This project is for educational and demo purposes only.
 You can reuse and modify it freely — no attribution required.
+
+---
 
 ## 🙌 Acknowledgments
 Inspired by common modern landing page layouts. Built for practice, learning, and fun.
