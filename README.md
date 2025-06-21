@@ -1,3 +1,4 @@
+
 # 🌟 ZenLamp – Animated Landing Page
 
 A simple, animated product landing page built with **HTML**, **CSS**, and **JavaScript**.  
@@ -33,10 +34,15 @@ This project demonstrates basic scroll-triggered animations, hover effects, and 
 ## 📁 File Structure
 
 animated-site/
+         
          ├── index.html # Main HTML page
+         
          ├── style.css # Styles and animations
+         
           ── script.js # Scroll animation logic
+        
          ├── assets/ # (Optional) Images or icons
+         
          └── README.md # Project documentation
 
 
