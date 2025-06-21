@@ -15,7 +15,7 @@ This project demonstrates basic scroll-triggered animations, hover effects, and 
 ## ✨ Features
 
 - 🎨 Stylish hero section with fade-in animation
-- 📜 Scroll-triggered feature cards using JavaScript
+- 📜 Scroll-triggered feature cards using *JavaScript*
 - 🖱️ Hover animations on buttons
 - 🧩 Fully responsive layout
 - 🌈 Clean, modern design with subtle effects
@@ -33,11 +33,11 @@ This project demonstrates basic scroll-triggered animations, hover effects, and 
 ## 📁 File Structure
 
 animated-site/
-├── index.html # Main HTML page
-├── style.css # Styles and animations
-├── script.js # Scroll animation logic
-├── assets/ # (Optional) Images or icons
-└── README.md # Project documentation
+    ├── index.html # Main HTML page
+    ├── style.css # Styles and animations
+    ├── script.js # Scroll animation logic
+    ├── assets/ # (Optional) Images or icons
+    └── README.md # Project documentation
 
 
 ---
@@ -46,12 +46,13 @@ animated-site/
 
 ### 1. Clone the repo
 
-```bash
 git clone https://github.com/your-username/animated-site.git
 cd animated-site
 
 ### 2. Open in Browser
 Just open index.html in your browser, or use a live server extension in your code editor.
+
+---
 
 ## 🧪 Optional Enhancements
 Add a contact form or email signup
